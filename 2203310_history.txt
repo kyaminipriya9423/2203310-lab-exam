@@ -1,0 +1,172 @@
+  1  exit
+    2  ssh keygen -t ed25519 -C "k.priya.22033@iitgoa.ac.in"
+    3  ssh-keygen -t ed25519 -C "k.priya.22033@iitgoa.ac.in"
+    4  ls -al ~/.ssh
+    5  cat .ssh/id_ed25519.pub
+    6  git clone git@github.com:kyaminipriya9423/cs102-git-essentials.git
+    7  git --version
+    8  git config --global user.name "kyaminipriya9423"
+    9  git config --global user.email "k.priya.22033@iitgoa.ac.in"
+   10  git config -get
+   11  git config --get
+   12  cat .git config
+   13  cat .gitconfig
+   14  git clone git@github.com:<kyaminipriya9423>/cs102-git-essentials.git
+   15  git clone git@github.com:kyaminipriya9423/cs102-git-essentials.git
+   16  ls
+   17  cd cs102-git-essentials
+   18  ls
+   19  cd
+   20  rm -rf cs102-git-essentials
+   21  git clone git@github.com:kyaminipriya9423/cs102-git-essentials.git
+   22  git remote -v
+   23  cd cs102-git-essentials
+   24  git remote -v
+   25  ls
+   26  git add file_name.extension
+   27  touch file_name.extension
+   28  git add file_name.extension
+   29  git status
+   30  git commit -m "file_name.extension is added"
+   31  git status
+   32  git log
+   33  git push origin main
+   34  git rev-parse --abbrev-ref HEAD
+   35  git branch --show-current
+   36  git log --oneline --decorate --graph --all
+   37  git clone git@github.com:kyaminipriya9423/Yamini_Priya_K.git
+   38  git clone
+   39  git clone git@github.com:kyaminipriya9423/kyaminipriya9423.github.io.git
+   40  ls
+   41  rm -rf Yamini_Priya_K
+   42  cd kyaminipriya9423.github.io
+   43  git status
+   44  git log
+   45  git push origin main
+   46  git status
+   47  gi log
+   48  git log
+   49  git push origin main
+   50  git status
+   51  git add .
+   52  git status
+   53  git log
+   54  cd
+   55  cd cs102-git-essentials
+   56  ls
+   57  touch cs-102-imp.txt
+   58  git status
+   59  git add .
+   60  git status
+   61  git log
+   62  git push origin main
+   63  ls
+   64  git pull origin main
+   65  git commit -m "This file is for some important text"
+   66  git log
+   67  git push origin main
+   68  git log
+   69  cd
+   70  cd kyaminipriya9423.github.io
+   71  l
+   72  ls
+   73  cat README.md
+   74  git status
+   75  git push origin main
+   76  git pull origin main
+   77  git push origin main
+   78  git pull origin main
+   79  git push origin main
+   80  git add .
+   81  git status
+   82  git log
+   83  git clone git@github.com:kyaminipriya9423/2203310-lab-exam.git
+   84  git status
+   85  ls
+   86  cd 2203310-lab-exam
+   87  git status
+   88  git log
+   89  git pull origin main
+   90  git push origin main
+   91  git log
+   92  git clone git@github.com:tusharlone/cs102-git-essentials.git
+   93  git status
+   94  ls
+   95  git log
+   96  git add .
+   97  git log
+   98  git clone git@github.com:tusharlone/cs102-git-essentials.git
+   99  git pull origin main
+  100  ls
+  101  cd cs102-git-essentials
+  102  ls
+  103  cd
+  104  cd cs102-git-essentials
+  105  ls
+  106  cd
+  107  cd 2203310-lab-exam
+  108  cd cs102-git-essentials
+  109  ls
+  110  cd
+  111  ls
+  112  ls -als
+  113  cd 2203310-lab-exam
+  114  cd cs102-git-essentials
+  115  scp ca_500.cv 2203310@10.250.1.67:~/.
+  116  ls
+  117  scp ca_500.csv 2203310@10.250.1.67:~/.
+  118  scp us_500.csv 2203310@10.250.1.67:~/.
+  119  cd
+  120  ls
+  121  scp ca_500.csv 2203310-lab-exam
+  122  scp us_500.csv 2203310-lab-exam
+  123  cd 2203310-lab-exam
+  124  cd cs102-git-essentials
+  125  cd
+  126  cd 2203310-lab-exam
+  127  ls
+  128  cat ca_500.csv
+  129  cd
+  130  wc -w ca_500.csv
+  131  wc -l ca_500.csv
+  132  vim ca_city_Montreal.csv
+  133  which vim
+  134  which bash
+  135  vim ca_city_Montreal.csv
+  136  bash ca_city_Montreal.csv
+  137  vim ca_city_Montreal.csv
+  138  bash ca_city_Montreal.csv
+  139  vim ca_city_Montreal.csv
+  140  bash ca_city_Montreal.csv
+  141  vim ca_city_Montreal.csv
+  142  bash ca_city_Montreal.csv
+  143  less --help
+  144  vim ca_city_Montreal.csv
+  145  bash ca_city_Montreal.csv
+  146  touch 2203310_data_filter.sh
+  147  cd kyaminipriya9423.github.io
+  148  git pull origin main
+  149  cd
+  150  vim rollnumber_history.txt
+  151  bash rollnumber_history.txt
+  152  history
+  153  vim rollnumber_history.txt
+  154  cd 2203310-lab-exam
+  155  git push origin main
+  156  ls
+  157  git commit -m "UPDATED"
+  158  git push origin main
+  159  TOUCH 2203310_history.txt
+  160  touch 2203310_history.txt
+  161  ls
+  162  git add *
+  163  git status
+  164  git commit -m "modified"
+  165  history
+  166  cat >>    1  exit 2203310_history.txt
+  167  git push origin main
+  168  git add *
+  169  git status
+  170  logout
+  171  cd 2203310-lab-exam
+  172  history
