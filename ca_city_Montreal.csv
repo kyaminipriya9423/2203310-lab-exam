@@ -1,0 +1,16 @@
+for i in *_500.csv
+do
+  echo -n "Total number of records in the file $i are: "
+  wc -l "$i"
+done
+
+for i in *_500.csv
+do
+  echo -n "First line of the file $i is: "
+  head -1 "$i"
+done
+
+ echo -n "Lines in the file ca_500.csv that contains the word 'Montreal' are: "
+ grep -i Montreal ca_500.csv
+ 
+
